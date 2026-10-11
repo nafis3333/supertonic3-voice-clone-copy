@@ -57,14 +57,19 @@ This project utilizes voice cloning technology (Supertone & SpeechBrain). By usi
 
 ## Credits & Attribution
 
+This project builds upon the excellent work of [kdrkdrkdr](https://github.com/kdrkdrkdr)
+
+The original author has recently released an [updated version](https://github.com/kdrkdrkdr/supertonic.embed) with even more precise voice cloning and natural audio generation. **If you're looking for the latest and most advanced features, we highly recommend checking out their repository** for the most recent improvements and optimizations.
+
 ```
 @misc{kim2026supertonicembed,
-  author       = {Gyeongmin Kim},
-  title        = {Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.19646514},
-  url          = {https://doi.org/10.5281/zenodo.19646514}
+  author        = {Gyeongmin Kim},
+  title         = {Extracting Voice Styles from Frozen {TTS} Models via Gradient-Based Inverse Optimization},
+  year          = {2026},
+  eprint        = {2607.25351},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.AS},
+  url           = {https://arxiv.org/abs/2607.25351}
 }
 ```
 
