@@ -61,7 +61,7 @@ This project builds upon the excellent work of [kdrkdrkdr](https://github.com/kd
 
 The original author has recently released an [updated version](https://github.com/kdrkdrkdr/supertonic.embed) with even more precise voice cloning and natural audio generation. **If you're looking for the latest and most advanced features, we highly recommend checking out their repository** for the most recent improvements and optimizations.
 
-```
+```bibtex
 @misc{kim2026supertonicembed,
   author        = {Gyeongmin Kim},
   title         = {Extracting Voice Styles from Frozen {TTS} Models via Gradient-Based Inverse Optimization},
